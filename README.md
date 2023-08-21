@@ -7,6 +7,6 @@
 
   Podomoro Timer is a simple timer application built using HTML, CSS, and JavaScript.
 
-  <a href="https://zerobrofan.github.io/SoleStyle-eCommerce-website/index.html"><strong>➥ Live Demo</strong></a>
+  <a href="https://zerobrofan.github.io/Podomoro-Timer/index.html"><strong>➥ Live Demo</strong></a>
 
 </div>
